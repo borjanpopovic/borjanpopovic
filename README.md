@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 ### Hi! I'm Borjan. Welcome to my Github!
 
 
